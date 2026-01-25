@@ -62,7 +62,7 @@ Atualmente cursando **Ciência da Computação na UESC**, sou um desenvolvedor c
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://portfoliogabriel-galdino.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  <img src="https://img.shields.io/badge/VER_PROJETOS-E0B33A?style=for-the-badge&labelColor=E0B33A&textColor=1A1A1B" height="45" alt="Botão Ver Projetos" />
   </a>
 </div>
 

@@ -47,7 +47,7 @@ Atualmente cursando **Ciência da Computação na UESC**, sou um desenvolvedor c
 
 ### 🛠️ Tecnologias e Habilidades
 
-- **FullStack:** Angular (Front-end) & .NET / C# (Back-end).
+- **FullStack:** Angular / React (Front-end) & .NET / C# (Back-end).
 - **Linguagens:** TypeScript, JavaScript, Java, PHP, Python e C.
 - **Banco de Dados:** SQL, MySQL e PostgreSQL.
 - **DevOps & Ferramentas:** Docker, Git, Node.js e Bootstrap.

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabriel Rosa Galdino and I'm a FullStack Developer, from Itabuna-BA.</h2>
+<h2 align="left">Hi 👋! My name is Gabriel Rosa Galdino and I'm a FullStack Developer </h2>
 
 ###
 
@@ -70,4 +70,9 @@ Atualmente cursando **Ciência da Computação na UESC**, sou um desenvolvedor c
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gabriel-Gald1n0/Gabriel-Gald1n0/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Gald1n0/Gabriel-Gald1n0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Gald1n0/Gabriel-Gald1n0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabriel-Gald1n0/Gabriel-Gald1n0/output/pacman-contribution-graph.svg">
+</picture>
+

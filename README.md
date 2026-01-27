@@ -67,9 +67,9 @@ Atualmente cursando **Ciência da Computação na UESC**, sou um desenvolvedor c
   <a href="mailto:gabrielrosagaldino@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <!-- <a href="https://portfoliogabriel-galdino.vercel.app" target="_blank">
+  <a href="https://portfoliogabriel-galdino.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-E0B33A?style=for-the-badge&labelColor=E0B33A&textColor=1A1A1B" height="45" alt="Botão Portfolio" />
-  </a> -->
+  </a> 
 </div>
 
 > 🎓 **Nota:** Na seção de conexões acima, você encontrará o link para o meu **GitHub Acadêmico**, onde armazeno projetos de faculdade, laboratórios de algoritmos e estudos realizados durante a graduação em Ciência da Computação na UESC.
